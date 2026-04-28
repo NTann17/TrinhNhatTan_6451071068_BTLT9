@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259532707997",
+    "project_id": "bai-2-firebase",
+    "storage_bucket": "bai-2-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259532707997:android:f59f1e199f38a6acf29c74",
+        "android_client_info": {
+          "package_name": "com.example.bai_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6dLa69bo7K4sycqw-hL9bveQt-Os5GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
